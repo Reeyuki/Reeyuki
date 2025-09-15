@@ -8,7 +8,7 @@
 <p align="left"><strong>「</strong></p>
 <p align="center">
   Linux Enthusiast 🐧 Fullstack Developer ✨
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />
+
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=Just+a+curious+mind,+powered+by+'linux'.">
 </p>
