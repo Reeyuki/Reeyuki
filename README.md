@@ -2,7 +2,7 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Reeyuki <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=thelp281&style=flat" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=reeyuki&style=flat" align="center" />
 </div>
 <br>
 <p align="left"><strong>「</strong></p>
