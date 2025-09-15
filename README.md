@@ -1,4 +1,5 @@
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm TheLp281 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
+
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Reeyuki <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=thelp281&style=flat" align="center" />
@@ -6,10 +7,10 @@
 <br>
 <p align="left"><strong>「</strong></p>
 <p align="center">
-  I am a Linux Enthusiast and Lost Developer. Please help me find my way 
+  Linux Enthusiast 🐧 Fullstack Developer ✨
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=I+am+still+thinking+'probably🤔'.">
+  <img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=Just+a+curious+mind,+powered+by+'linux'.">
 </p>
 <p align="right"><strong>」</strong></p>
 <br>
@@ -21,7 +22,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Moai.webp" alt="Moai" width="25" height="25" /> Working on a project 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Microscope.webp" alt="Microscope" width="25" height="25" />
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on a feature-rich communication platform.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Telescope.webp" alt="Telescope" width="25" height="25" /> I’m currently working on a discord-like communication platform.
 
 ---
 
@@ -181,20 +182,20 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLp281&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeyuki&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheLp281&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLp281&layout=compact&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reeyuki&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeyuki&layout=compact&theme=vision-friendly-dark"/>
 
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> GitHub Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/TheLp281/TheLp281/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/TheLp281/TheLp281/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/TheLp281/TheLp281/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Reeyuki/Reeyuki/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Reeyuki/Reeyuki/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/Reeyuki/Reeyuki/blob/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> Github Trophy
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheLp281&theme=onedark" alt="TheLp281" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Reeyuki&theme=onedark" alt="Reeyuki" /></a> </p>
