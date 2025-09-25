@@ -6,11 +6,9 @@
 </div>
 
 <p align="center">
-Linux Enthusiast 🐧 | Fullstack Developer ✨  
+Fullstack Developer ✨ Linux Enthusiast 🐧 
 <br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" />
-</div>
+
 </p>
 
 ---
