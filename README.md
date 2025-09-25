@@ -43,7 +43,7 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 
 | TypeScript | JavaScript | Vite |
 | ---------- | ---------- | ---------- |
-| <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> |  |
+| <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> |  <img src="https://vite.dev/logo.svg" width="48"/>  |
 
 </div>
 
