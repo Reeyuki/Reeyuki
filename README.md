@@ -13,11 +13,6 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 
 ---
 
-## 🌐 Contact Me
-
-* Email: [efekantunc0@gmail.com](mailto:efekantunc0@gmail.com)
-* Location: Skopje, North Macedonia
-* GitHub: [Reeyuki](https://github.com/Reeyuki)
 * Live Projects: [Liventcord](https://liventcord.github.io)
 
 ---
