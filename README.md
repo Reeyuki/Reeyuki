@@ -41,8 +41,8 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 | ---- | ----- | ------ |
 | <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="48"/> | <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=vue" width="48"/> |
 
-| TypeScript | JavaScript | — |
-| ---------- | ---------- | - |
+| TypeScript | JavaScript | Vite |
+| ---------- | ---------- | ---------- |
 | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> |  |
 
 </div>
@@ -71,9 +71,6 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 | ------ | ----- | ---- |
 | <img src="https://skillicons.dev/icons?i=vercel" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=bash" width="48"/> |
 
-| Linux | — | — |
-| ----- | - | - |
-| <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="48"/> |  |  |
 
 </div>
 
