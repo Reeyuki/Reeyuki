@@ -35,7 +35,7 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 ## 🛠️ Skills
 
 ### Frontend
-<div align="center">
+<div align="left">
 
 | CSS3 | HTML5 | Vue.js |
 | ---- | ----- | ------ |
@@ -48,7 +48,7 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 </div>
 
 ### Backend
-<div align="center">
+<div align="left">
 
 | PostgreSQL | .NET Core | Node.js |
 | ---------- | --------- | ------- |
@@ -61,7 +61,7 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 </div>
 
 ### DevOps / Tools
-<div align="center">
+<div align="left">
 
 | Git | GitHub | Docker |
 | --- | ------ | ------ |
