@@ -8,7 +8,7 @@
 <p align="center">
 Linux Enthusiast 🐧 | Fullstack Developer ✨  
 <br>
-<img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=450&height=45&lines=Just+a+curious+mind,+powered+by+'Linux'.">
+![Profile Banner](https://img.shields.io/badge/Linux-Fullstack-blue?style=flat&logo=linux)
 </p>
 
 ---
