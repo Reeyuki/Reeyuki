@@ -30,34 +30,55 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 
 ---
 
+
+
 ## 🛠️ Skills
 
 ### Frontend
 <div align="center">
 
-| CSS3 | HTML5 | Vue.js | TypeScript | JavaScript |
-| ---- | ----- | ------ | ---------- | ---------- |
-| <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="48"/> | <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=vue" width="48"/> | <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> |
+| CSS3 | HTML5 | Vue.js |
+| ---- | ----- | ------ |
+| <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="48"/> | <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=vue" width="48"/> |
+
+| TypeScript | JavaScript | — |
+| ---------- | ---------- | - |
+| <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> |  |
 
 </div>
 
 ### Backend
 <div align="center">
 
-| PostgreSQL | .NET Core | Node.js | Python | Golang | Redis |
-| ---------- | --------- | ------- | ------ | ------ | ----- |
-| <img src="https://skillicons.dev/icons?i=postgres" width="48"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=go" width="48"/> | <img src="https://skillicons.dev/icons?i=redis" width="48"/> |
+| PostgreSQL | .NET Core | Node.js |
+| ---------- | --------- | ------- |
+| <img src="https://skillicons.dev/icons?i=postgres" width="48"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> |
+
+| Python | Golang | Redis |
+| ------ | ------ | ----- |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=go" width="48"/> | <img src="https://skillicons.dev/icons?i=redis" width="48"/> |
 
 </div>
 
 ### DevOps / Tools
 <div align="center">
 
-| Git | GitHub | Docker | Vercel | Nginx | Bash | Linux |
-| --- | ------ | ------ | ------ | ----- | ---- | ----- |
-| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=vercel" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=bash" width="48"/> | <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="48"/> |
+| Git | GitHub | Docker |
+| --- | ------ | ------ |
+| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/> |
+
+| Vercel | Nginx | Bash |
+| ------ | ----- | ---- |
+| <img src="https://skillicons.dev/icons?i=vercel" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=bash" width="48"/> |
+
+| Linux | — | — |
+| ----- | - | - |
+| <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="48"/> |  |  |
 
 </div>
+
+
+
 
 
 
