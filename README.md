@@ -19,11 +19,11 @@ Fullstack Developer ✨ Linux Enthusiast 🐧
 
 ## 💻 Featured Projects
 
-| Project                     | Tech                     | Link                                      |
-| --------------------------- | ------------------------ | ----------------------------------------- |
-| Ollama AI Chat/Voice        | FastAPI, JS | [GitHub](https://github.com/Reeyuki/PromptLama)      |
-| Discord Clone               | Vue/TS, C#/Golang | [Live Demo](https://liventcord.github.io) |
-| WebRTC Audio/Video Call App | Flask, JS                | [GitHub](https://github.com/Reeyuki](https://github.com/Reeyuki/WebRtcFlask)      |
+| Project                     | Tech              | Link                                                   |
+| ---------------------------- | ----------------- | ------------------------------------------------------ |
+| Ollama AI Chat/Voice         | FastAPI, JS       | [GitHub](https://github.com/Reeyuki/PromptLama)        |
+| Discord Clone                | Vue/TS, C#/Golang | [Live Demo](https://liventcord.github.io)              |
+| WebRTC Audio/Video Call App  | Flask, JS         | [GitHub](https://github.com/Reeyuki/WebRtcFlask)       |
 
 ---
 
