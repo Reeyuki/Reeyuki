@@ -1,8 +1,8 @@
 
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Reeyuki 
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" align="center" />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" />
 </div>
 
 <p align="center">
@@ -26,9 +26,9 @@ Linux Enthusiast 🐧 | Fullstack Developer ✨
 
 | Project                     | Tech                     | Link                                      |
 | --------------------------- | ------------------------ | ----------------------------------------- |
-| Ollama AI Chat/Voice        | FastAPI, JS | [GitHub](https://github.com/Reeyuki)      |
+| Ollama AI Chat/Voice        | FastAPI, JS | [GitHub](https://github.com/Reeyuki/PromptLama)      |
 | Discord Clone               | Vue/TS, C#/Golang | [Live Demo](https://liventcord.github.io) |
-| WebRTC Audio/Video Call App | Flask, JS                | [GitHub](https://github.com/Reeyuki)      |
+| WebRTC Audio/Video Call App | Flask, JS                | [GitHub](https://github.com/Reeyuki](https://github.com/Reeyuki/WebRtcFlask)      |
 
 ---
 
