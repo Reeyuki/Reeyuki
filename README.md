@@ -1,191 +1,67 @@
 
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Reeyuki <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="25" height="25" />
+# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Reeyuki 
 
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=reeyuki&style=flat" align="center" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" align="center" />
 </div>
-<br>
-<p align="left"><strong>「</strong></p>
-<p align="center">
-  Linux Enthusiast 🐧 Fullstack Developer ✨
 
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=410&height=45&lines=Just+a+curious+mind,+powered+by+'linux'.">
-</p>
-<p align="right"><strong>」</strong></p>
+<p align="center">
+Linux Enthusiast 🐧 | Fullstack Developer ✨  
 <br>
+<img src="https://readme-typing-svg.herokuapp.com?size=14&color=97a4e2&center=true&width=450&height=45&lines=Just+a+curious+mind,+powered+by+'Linux'.">
+</p>
 
 ---
-### Activity
 
-### 🖥️ OS
+## 🌐 Contact Me
 
-| Linux                                                                                                                                        | Arch                                                                                                                                               |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch" alt="Arch" width="55" height="55"/> |
+* Email: [efekantunc0@gmail.com](mailto:efekantunc0@gmail.com)
+* Location: Skopje, North Macedonia
+* GitHub: [Reeyuki](https://github.com/Reeyuki)
+* Live Projects: [Liventcord](https://liventcord.github.io)
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Magic%20Wand.webp" alt="Magic Wand" width="25" height="25" /> Languages and Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" />
+---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Frontend
+## 💻 Featured Projects
 
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="48" width="48" />
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="48" width="48" />
-      </a>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=svelte" alt="Svelte" width="48" height="48" />
-      </a>
-      <br>Svelte
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" height="40" width="40" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" height="40" width="40" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://react.dev/" target="_blank" rel="noreferrer">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
-      </a>
-      <br>React
-    </td>
-  </tr>
-</table>
-<br clear="left" />
+| Project                     | Tech                     | Link                                      |
+| --------------------------- | ------------------------ | ----------------------------------------- |
+| Ollama AI Chat/Voice        | FastAPI, JS | [GitHub](https://github.com/Reeyuki)      |
+| Discord Clone               | Vue/TS, C#/Golang | [Live Demo](https://liventcord.github.io) |
+| WebRTC Audio/Video Call App | Flask, JS                | [GitHub](https://github.com/Reeyuki)      |
 
+---
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> Backend
+## 🖥️ OS
 
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
-      <br>PostgreSQL
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="netcore" />
-      <br>Net Core
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="nodejs" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Go
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-  </tr>
-</table>
+| Linux                                                                                                  | Arch                                                                                                           |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="55"/> |
 
+---
 
-<br clear="left" />
+## 🛠️ Skills
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Cloud%20With%20Lightning.webp" alt="Cloud With Lightning" width="25" height="25" /> DevOps
+### Frontend
 
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="github" />
-      <br>GitHub
-    </td>
-<!--     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="gitlab" />
-      <br>GitLab
-    </td> -->
-  </tr>
-  <tr>
-    <!-- <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
-      <br>GCP
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="azure" />
-      <br>Azure
-    </td> -->
-    <td align="center" width="96">
-          <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="./assets/docker.svg" alt="docker" width="40" height="40"/> </a>
-      <br>Docker
-    </td>
-      <td align="center" width="96">
-          <a href="https://render.com" target="_blank" rel="noreferrer"> <img src="https://cdn.sanity.io/images/hvk0tap5/production/0ea63c1b6854bd803489557afb4ea54b85239418-128x128.png?fit=max&auto=format" alt="render" width="40" height="40"/> </a>
-      <br>Render
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="nginx" />
-      <br>Nginx
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
-      <br>Vercel
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="bash" />
-      <br>Bash
-    </td>
-    <td align="center" width="96">
-        <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="48" width="48" /></a>
-      <br>Linux
-    </td>
-  </tr>
-</table>
-<br clear="left" />
+<img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="48"/> CSS3 <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="48"/> HTML5 <<img src="https://skillicons.dev/icons?i=vue" width="48"/> Vue.js <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> TypeScript <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> JavaScript
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> My GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/> PostgreSQL <img src="https://skillicons.dev/icons?i=dotnet" width="48"/> .NET Core <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> Node.js <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/> Python <img src="https://skillicons.dev/icons?i=go" width="48"/> Golang <img src="https://skillicons.dev/icons?i=redis" width="48"/> Redis
+
+### DevOps / Tools
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/> Git <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/> GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/> Docker <img src="https://skillicons.dev/icons?i=vercel" width="48"/> Vercel <img src="https://skillicons.dev/icons?i=nginx" width="48"/> Nginx <img src="https://skillicons.dev/icons?i=bash" width="48"/> Bash <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" width="48"/> Linux
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeyuki&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reeyuki&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeyuki&layout=compact&theme=vision-friendly-dark"/>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reeyuki&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeyuki&layout=compact&theme=vision-friendly-dark"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Snake.webp" alt="Snake" width="25" height="25" /> GitHub Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Reeyuki/Reeyuki/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Reeyuki/Reeyuki/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/Reeyuki/Reeyuki/blob/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="25" height="25" /> Github Trophy
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Reeyuki&theme=onedark" alt="Reeyuki" /></a> </p>
