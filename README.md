@@ -8,7 +8,9 @@
 <p align="center">
 Linux Enthusiast 🐧 | Fullstack Developer ✨  
 <br>
-![Profile Banner](https://img.shields.io/badge/Linux-Fullstack-blue?style=flat&logo=linux)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" />
+</div>
 </p>
 
 ---
