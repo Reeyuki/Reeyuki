@@ -8,12 +8,7 @@
 <p align="center">
 Fullstack Developer ✨ Linux Enthusiast 🐧 
 <br>
-
 </p>
-
----
-
-* Live Projects: [Liventcord](https://liventcord.github.io)
 
 ---
 
