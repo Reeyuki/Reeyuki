@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-Fullstack Developer ✨ Linux Enthusiast 🐧 
+Fullstack Developer ✨
 <br>
 </p>
 
