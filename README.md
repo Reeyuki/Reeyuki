@@ -14,10 +14,11 @@ Fullstack Developer ✨
 
 ## 💻 Featured Projects
 
-| Project                     | Tech              | Link                                                   |
+| Project                      | Tech              | Link                                                   |
 | ---------------------------- | ----------------- | ------------------------------------------------------ |
+| Desktop Webapp GameArchive   | Html, JS, Electron| [Live Site](https://reeyuki.github.io/desktop/))       |
+| Discord Clone                | Vue/TS, C#/Golang | [Live Service](https://liventcord.github.io)           |
 | Ollama AI Chat/Voice         | FastAPI, JS       | [GitHub](https://github.com/Reeyuki/PromptLama)        |
-| Discord Clone                | Vue/TS, C#/Golang | [Live Demo](https://liventcord.github.io)              |
 | WebRTC Audio/Video Call App  | Flask, JS         | [GitHub](https://github.com/Reeyuki/WebRtcFlask)       |
 
 ---
