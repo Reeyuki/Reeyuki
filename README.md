@@ -1,91 +1,64 @@
-https://liventcord.github.io
-# Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> , I'm Reeyuki 
+
+# Hi 👋, I'm Reeyuki
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" />
 </div>
 
-<p align="center">
-Fullstack Developer ✨
-<br>
+Building browser platforms, realtime applications, game technology, and open-source software.
+
+- 🖥️ Creator of **YukiOS**, a browser-based desktop environment with apps, emulation, persistent storage, and multitasking
+- 💬 Developing **LiventCord**, a self-hosted realtime communication platform
+- 🎮 Building games and reverse-engineering browser ports of existing titles
+- 🌐 Interested in browser runtimes, networking, Linux, and self-hosted infrastructure
+- 🐧 Daily driving Arch Linux
+
+Website: https://reeyuki.nekoweb.org
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|----------|-------------|--------|
+| [**YukiOS**](https://github.com/Reeyuki/YukiOS) | Browser desktop environment with window management, filesystem, emulation support, applications, and persistent workspaces | JavaScript, Vite, IndexedDB |
+| [**LiventCord**](https://github.com/liventcord/LiventCord) | Self-hosted realtime communication platform with messaging, media, voice/video, and distributed services | Vue, TypeScript, .NET, Go, Redis |
+| [**Waydroid Remote Web**](https://github.com/Reeyuki/Waydroid-Remote-Web) | Browser-based remote control and screen streaming for Waydroid using WebCodecs and WebSockets | Node.js, WebCodecs, ADB |
+| [**TunnelMux**](https://github.com/Reeyuki/TunnelMux) | WebSocket-based tunneling and relay system for remote access and SSH forwarding | Python, Go, FastAPI |
+| [**YukiAI**](https://github.com/Reeyuki/YukiAI) | Open-source AI chat and voice client for Ollama with speech recognition and TTS | FastAPI, JavaScript |
+
+
+---
+
+## 🛠️ Technologies
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,go,nodejs,dotnet,postgres,redis" />
+</p>
+
+### Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,bash,linux" />
 </p>
 
 ---
 
-## 💻 Featured Projects
-
-| Project                      | Tech              | Link                                                   |
-| ---------------------------- | ----------------- | ------------------------------------------------------ |
-| Desktop WebOS GameArchive    | Html, JS, Electron| [Live Site](https://yukios.netlify.app)       |
-| Discord Clone                | Vue/TS, C#/Golang | [Live Service](https://liventcord.github.io)           |
-| Ollama AI Chat/Voice         | FastAPI, JS       | [GitHub](https://github.com/Reeyuki/PromptLama)        |
-| WebRTC Audio/Video Call App  | Flask, JS         | [GitHub](https://github.com/Reeyuki/WebRtcFlask)       |
+Focused on browser-based systems, realtime infrastructure, and self-hosted applications.
 
 ---
-
-## 🖥️ OS
-
-| Linux                                                                                                  | Arch                                                                                                           |
-| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" width="55"/> |
-
----
-
-
-
-## 🛠️ Skills
-
-### Frontend
-<div align="left">
-
-| CSS3 | HTML5 | Vue.js |
-| ---- | ----- | ------ |
-| <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" width="48"/> | <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=vue" width="48"/> |
-
-| TypeScript | JavaScript | Vite |
-| ---------- | ---------- | ---------- |
-| <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48"/> | <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/> |  <img src="https://vite.dev/logo.svg" width="48"/>  |
-
-</div>
-
-### Backend
-<div align="left">
-
-| PostgreSQL | .NET Core | Node.js |
-| ---------- | --------- | ------- |
-| <img src="https://skillicons.dev/icons?i=postgres" width="48"/> | <img src="https://skillicons.dev/icons?i=dotnet" width="48"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> |
-
-| Python | Golang | Redis |
-| ------ | ------ | ----- |
-| <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/> | <img src="https://skillicons.dev/icons?i=go" width="48"/> | <img src="https://skillicons.dev/icons?i=redis" width="48"/> |
-
-</div>
-
-### DevOps / Tools
-<div align="left">
-
-| Git | GitHub | Docker |
-| --- | ------ | ------ |
-| <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48"/> |
-
-| Vercel | Nginx | Bash |
-| ------ | ----- | ---- |
-| <img src="https://skillicons.dev/icons?i=vercel" width="48"/> | <img src="https://skillicons.dev/icons?i=nginx" width="48"/> | <img src="https://skillicons.dev/icons?i=bash" width="48"/> |
-
-
-</div>
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeyuki&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800&date_format=M%20j%5B%2C%20Y%5D"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeyuki&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reeyuki&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reeyuki&layout=compact&theme=vision-friendly-dark"/>
 </div>
-
