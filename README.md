@@ -5,13 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" />
 </div>
 
-Building browser platforms, realtime applications, game technology, and open-source software.
-
-- 🖥️ Creator of **YukiOS**, a browser-based desktop environment with apps, emulation, persistent storage, and multitasking
-- 💬 Developing **LiventCord**, a self-hosted realtime communication platform
-- 🎮 Building games and reverse-engineering browser ports of existing titles
-- 🌐 Interested in browser runtimes, networking, Linux, and self-hosted infrastructure
-- 🐧 Daily driving Arch Linux
+I make open-source software, games, and web tools. My current projects include a browser desktop environment YukiOS, and a self-hosted chat app called LiventCord. I enjoy reverse-engineering games and web development. Everything is at reeyuki.nekoweb.org.
 
 Website: https://reeyuki.nekoweb.org
 
