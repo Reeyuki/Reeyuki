@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=Reeyuki&style=flat" />
 </div>
 
-I make open-source software, games, and web tools. My current projects include a browser desktop environment YukiOS, and a self-hosted chat app called LiventCord. I enjoy reverse-engineering games and web development. Everything is at reeyuki.nekoweb.org.
+I make open source software, games, and web tools. I enjoy reverse engineering games and web development.
 
 Website: https://reeyuki.nekoweb.org
 
