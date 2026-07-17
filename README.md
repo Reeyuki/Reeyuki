@@ -7,7 +7,7 @@
 
 I make open source software, games, and web tools. I enjoy reverse engineering games and web development.
 
-Website: https://reeyuki.nekoweb.org
+Website: https://reeyuki.neocities.org
 
 ---
 
