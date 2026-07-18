@@ -54,5 +54,6 @@ Focused on browser-based systems, realtime infrastructure, and self-hosted appli
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reeyuki&theme=vision-friendly-dark&hide_border=false&border_radius=5&card_width=800"/>
+<img src="https://ghstats.dev/api/card?username=reeyuki&theme=sunset&border_radius=10.5&custom_title=Pretty+Cool+Info"/>
 
 </div>
