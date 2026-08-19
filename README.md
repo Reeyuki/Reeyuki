@@ -86,39 +86,11 @@ I enjoy designing complete systems from the ground up, including application arc
 
 ---
 
-# 📌 Engineering Highlights
-
 - Built a complete browser-based operating system architecture from scratch
 - Designed real-time communication and streaming systems
 - Created distributed networking and tunneling solutions
-- Developed browser-native desktop environments
 - Worked with WebAssembly, WebCodecs, and modern browser APIs
 - Built applications spanning frontend, backend, infrastructure, and game development
-
----
-
-# 🌍 Remote Development
-
-I am interested in remote software engineering opportunities involving:
-
-- Full-stack development
-- Platform engineering
-- Developer tools
-- Distributed systems
-- Web infrastructure
-- Performance-focused applications
-
-I work independently, document systems, and enjoy owning projects from initial architecture through implementation and deployment.
-
----
-
-# 📫 Contact
-
-Website:
-https://reeyuki.neocities.org
-
-GitHub:
-https://github.com/Reeyuki
 
 ---
 
