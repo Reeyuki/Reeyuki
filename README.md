@@ -2,21 +2,21 @@
 
 Software Engineer specializing in full-stack web applications, distributed systems, real-time applications, and scalable software infrastructure.
 
-I build high-performance software across frontend, backend, and infrastructure layers, with experience in modern web technologies, WebAssembly, self-hosted platforms, developer tools, and interactive applications.
+I build high-performance software across frontend, backend, and infrastructure layers, with expertise in modern web technologies, self-hosted platforms, developer tooling, and interactive applications.
 
-I enjoy designing complete systems from the ground up, including application architecture, user interfaces, backend services, networking systems, storage solutions, and deployment infrastructure.
+I enjoy designing complete systems from the ground up, including system architecture, responsive user interfaces, backend REST APIs, networking systems, storage solutions, and cloud/deployment infrastructure.
 
 🌐 Website: [https://reeyuki.neocities.org](https://reeyuki.neocities.org)
 ---
 
 ## 💼 Engineering Focus
 
-- Full-stack web application development
-- Frontend architecture and complex interactive applications
-- Backend APIs, distributed services, and infrastructure
-- Real-time communication systems and networking
-- Cloud-native and self-hosted applications
-- Performance optimization and advanced web technologies
+- Full-stack web application development and system integration
+- Frontend architecture, single-page applications, and complex UI systems
+- Backend microservices, RESTful APIs, and distributed infrastructure
+- Real-time communication systems, WebSockets, and low-latency networking
+- Cloud-native deployments, containerization, and self-hosted platforms
+- Performance optimization, scalability, and modern web standards
 
 ---
 
@@ -24,12 +24,12 @@ I enjoy designing complete systems from the ground up, including application arc
 
 | Project | Description | Stack |
 |----------|-------------|-------|
-| **[YukiOS](https://github.com/Reeyuki/YukiOS)** | Browser-native operating system environment built from scratch featuring desktop window management, virtual filesystem, WASM/emulator execution, persistent storage, offline support, and 80+ integrated applications | JavaScript, TypeScript, Vite, IndexedDB, WebAssembly |
-| **[GNOME In Browser](https://github.com/Reeyuki/GnomeInBrowser)** | High-fidelity recreation of the GNOME desktop experience running entirely inside the browser with custom UI systems and desktop interactions | TypeScript, React, Vite |
-| **[LiventCord](https://github.com/liventcord/LiventCord)** | Distributed self-hosted communication platform supporting real-time messaging, audio/video streaming, and media infrastructure | Vue, TypeScript, .NET, Go, Redis |
-| **[Waydroid Remote Web](https://github.com/Reeyuki/Waydroid-Remote-Web)** | Low-latency Android remote control system providing browser-based screen streaming and input control through modern web APIs | Node.js, WebCodecs, WebSockets, ADB |
-| **[TunnelMux](https://github.com/Reeyuki/TunnelMux)** | High-throughput tunneling and networking system providing WebSocket forwarding, port relay, and multiplexed remote connections | Python, Go, FastAPI |
-| **[YukiAI](https://github.com/Reeyuki/YukiAI)** | Lightweight local AI assistant supporting chat, voice synthesis, and real-time speech processing through local model runtimes | FastAPI, JavaScript, Ollama |
+| **[YukiOS](https://github.com/Reeyuki/YukiOS)** | Browser-native operating system environment built from scratch featuring desktop window management, virtual filesystem, emulator execution, persistent storage, offline support, and 80+ integrated applications | **Frontend:** JavaScript, TypeScript, Vite, IndexedDB <br> **Backend:** Client-side / Local Storage |
+| **[GNOME In Browser](https://github.com/Reeyuki/GnomeInBrowser)** | High-fidelity recreation of the GNOME desktop experience running entirely inside the browser with custom UI systems and desktop interactions | **Frontend:** TypeScript, React, Vite <br> **Backend:** N/A (Client-side simulation) |
+| **[LiventCord](https://github.com/liventcord/LiventCord)** | Distributed self-hosted communication platform supporting real-time messaging, audio/video streaming, and media infrastructure | **Frontend:** Vue, TypeScript <br> **Backend:** .NET, Go, Redis, SQLite |
+| **[Waydroid Remote Web](https://github.com/Reeyuki/Waydroid-Remote-Web)** | Low-latency Android remote control system providing browser-based screen streaming and input control through modern web APIs | **Frontend:** WebCodecs, WebSockets, Modern Web APIs <br> **Backend:** Node.js, ADB |
+| **[TunnelMux](https://github.com/Reeyuki/TunnelMux)** | High-throughput tunneling and networking system providing WebSocket forwarding, port relay, and multiplexed remote connections | **Frontend:** N/A <br> **Backend:** Python, Go, FastAPI, OpenAPI/Swagger, WebSockets |
+| **[YukiAI](https://github.com/Reeyuki/YukiAI)** | Lightweight local AI assistant supporting chat, voice synthesis, and real-time speech processing through local model runtimes | **Frontend:** JavaScript <br> **Backend:** FastAPI, OpenAPI/Swagger, Ollama |
 
 ---
 
@@ -37,8 +37,8 @@ I enjoy designing complete systems from the ground up, including application arc
 
 | Project | Description | Stack |
 |----------|-------------|-------|
-| **[Voraxoid](https://reeyuki.itch.io/voraxoid) | Action survival game featuring creature evolution systems, procedural upgrades, resource-driven progression, AI-controlled allies, planetary exploration, and persistent idle reward mechanics | Unity, C# |
-| **[Soulthera Ascendant](https://reeyuki.itch.io/soulthera-ascendant)** | Fast-paced pixel-art survival game featuring custom combat systems, character mechanics, and large-scale entity simulations | Unity, C# |
+| **[Voraxoid](https://reeyuki.itch.io/voraxoid)** | Action survival game featuring creature evolution systems, procedural upgrades, resource-driven progression, AI-controlled allies, planetary exploration, and persistent idle reward mechanics | **Engine/Stack:** Unity, C# |
+| **[Soulthera Ascendant](https://reeyuki.itch.io/soulthera-ascendant)** | Fast-paced pixel-art survival game featuring custom combat systems, character mechanics, and large-scale entity simulations | **Engine/Stack:** Unity, C# |
 
 ---
 
@@ -50,11 +50,8 @@ I enjoy designing complete systems from the ground up, including application arc
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,vite,react" />
 </p>
 
-- Modern JavaScript and TypeScript applications
-- Complex interactive interfaces
-- Browser APIs and runtime environments
-- WebAssembly integrations
-- Performance-focused frontend architecture
+- **Capabilities:** Single-page applications (SPA), responsive UI/UX implementation, state management, component-driven design, high-performance DOM rendering, end-to-end testing, and modern browser API integration.
+- **Stack:** JavaScript (ES6+), TypeScript, Vue.js, React, Vite, HTML5, CSS3, WebCodecs, IndexedDB, Playwright.
 
 ---
 
@@ -64,33 +61,19 @@ I enjoy designing complete systems from the ground up, including application arc
 <img src="https://skillicons.dev/icons?i=python,go,nodejs,dotnet,postgres,redis" />
 </p>
 
-- REST APIs and backend services
-- Real-time communication systems
-- Distributed application architecture
-- Database-backed applications
-- Networking infrastructure
+- **Capabilities:** RESTful API development, microservices architecture, API documentation, real-time event-driven data streaming, database schema design, caching strategies, and concurrency management.
+- **Stack:** Python, Go, Node.js, .NET, FastAPI, PostgreSQL, Redis, SQLite, OpenAPI/Swagger, ADB.
 
 ---
 
-## Infrastructure
+## Infrastructure & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,bash,linux" />
 </p>
 
-- Linux-based development environments
-- Containerized deployments
-- Self-hosted infrastructure
-- CI/CD workflows
-- Networking and system administration
-
----
-
-- Built a complete browser-based operating system architecture from scratch
-- Designed real-time communication and streaming systems
-- Created distributed networking and tunneling solutions
-- Worked with WebAssembly, WebCodecs, and modern browser APIs
-- Built applications spanning frontend, backend, infrastructure, and game development
+- **Capabilities:** CI/CD pipeline automation, containerization and multi-container orchestration, reverse proxy configuration, Linux server administration, version control best practices, and production deployment workflows.
+- **Stack:** Docker, Docker Compose, Nginx, Git, GitHub Actions, Bash, Linux.
 
 ---
 
