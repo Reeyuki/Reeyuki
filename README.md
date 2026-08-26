@@ -15,7 +15,7 @@ Software Engineer
 
 ---
 
-# 🎮 Additional Projects
+# 🎮 Games
 
 | Project | Description | Stack |
 |----------|-------------|-------|
