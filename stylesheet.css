@@ -72,15 +72,6 @@ body[data-project="gnome"] {
   --border: #1e3a52;
   --text: #cfdded;
 }
-body[data-project="dotfiles"] {
-  --accent: #39c5cf;
-  --accent2: #ff5da2;
-  --bg: #081014;
-  --bg2: #0a151b;
-  --card: #0b1820;
-  --border: #1d4552;
-  --text: #cfeef2;
-}
 * {
   box-sizing: border-box;
   margin: 0;
